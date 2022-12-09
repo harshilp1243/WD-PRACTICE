@@ -1,0 +1,43 @@
+.container {
+    box-sizing: border-box;
+    background-color: azure;
+    width: 376px;
+    display: inline-block;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+
+.box {
+    display: inline-block;
+}
+
+.box img {
+    align-items: center;
+    width: 80%;
+    display: block;
+    margin: 20px auto;
+}
+
+.box p {
+    font-size: 13px;
+    text-align: center;
+    margin: 10px auto;
+    
+}
+body{
+    background-color: #eaeded;
+}
+h2{
+    margin: 18px;
+    font-size: 20px;
+}
+.top{
+    padding: 11px;
+}
+ul li{
+    list-style: none;
+}
+.li{
+    display: block;
+}
