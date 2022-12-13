@@ -1,0 +1,13 @@
+.contiener {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cart {
+    width: 25%;
+}
+
+.box {
+    display: inline-block;
+    width: 185px;
+}
